@@ -1,0 +1,33 @@
+--------------------------------------------------
+Metodology
+--------------------------------------------------
+- Please read carefully the following exercise and recommend at least 2 possible solutions to the interviewer.
+- Please choose one to implement.
+
+--------------------------------------------------
+Exercise
+--------------------------------------------------
+Create a new method which multiples 2 binary numbers and return the result in Long.
+
+public Long multiply( char[] num1, char[] num2 ) {
+
+}
+
+--------------------------------------------------
+Sample Inputs and Outputs
+--------------------------------------------------
+1.
+Input = sum(['1', '0', '0'], ['1', '1', '1']) 
+Output = 28 
+
+2.
+Input = sum(['1', '0', '0','1', '0', '0','1', '0', '0','1', '0', '0'], ['1', '0', '0','1', '0', '0','1', '0', '0','1', '0', '0']) 
+Output = 5475600
+
+
+--------------------------------------------------
+Functional Requirements
+--------------------------------------------------
+- For any input make sure it doesnt last more than 1 second returning the result
+
+
