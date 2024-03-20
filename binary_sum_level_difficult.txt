@@ -3,6 +3,7 @@ Metodology
 --------------------------------------------------
 - Please read carefully the following exercise and recommend at least 2 possible solutions to the interviewer.
 - Please choose one to implement.
+- Please add unit tests 
 
 --------------------------------------------------
 Exercise
