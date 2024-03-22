@@ -8,9 +8,9 @@ Metodology
 --------------------------------------------------
 Exercise
 --------------------------------------------------
-Create a new method which multiples 2 binary numbers and return the result in Long.
+Create a new method which sums 2 binary numbers and return the result in Long.
 
-public Long multiply( char[] num1, char[] num2 ) {
+public Long sum( char[] num1, char[] num2 ) {
 
 }
 
@@ -29,6 +29,6 @@ Output = 4680
 --------------------------------------------------
 Functional Requirements
 --------------------------------------------------
-- For any input make sure it doesnt last more than 1 second returning the result
+- For any input make sure it doesn't last more than 1 second returning the result
 
 
