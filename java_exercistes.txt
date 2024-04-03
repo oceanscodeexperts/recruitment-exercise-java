@@ -1,0 +1,33 @@
+# Write a Java function that takes a list of integers as input 
+# and returns the maximum difference between any two numbers in the list, such that the larger number appears after the smaller number.
+
+# Signature
+int maxProfit(int[] prices);
+
+# Test the function
+prices = [7, 1, 5, 3, 6, 4]
+print("Maximum profit:", maxProfit(prices))  
+# Output: 5 (buy at 1, sell at 6)
+
+-----------------------------------------------------------------------
+# Write a phone number word decoder
+
+# Signature
+String phoneDecoder(String phoneEncoded);
+
+# Test the function
+phoneEncoded = "800888TEST"
+print("Decoded phone:", phoneDecoder(phoneEncoded))  
+# Output: "(800) 888-8378"
+
+  Number	Letter
+    0	    none 
+    1	    none 
+    2	    ABC
+    3	    DEF
+    4	    GHI
+    5	    JKL
+    6	    MNO 
+    7	    PQRS 
+    8	    TUV
+    9	    WXYZ 
